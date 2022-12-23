@@ -1,7 +1,15 @@
 fun main(args: Array<String>) {
-    println("Hello World!")
+//    val username: String = "kyuheon"
+//    username = "dol"
+//    println("username: ${username}")
+    //Error 발생
 
-    // Try adding program arguments via Run/Debug configuration.
-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
-    println("Program arguments: ${args.joinToString()}")
+
+    var username: String = "kyuheon"
+    username = "dol"
+    println("username: ${username}")
+
+    //자료형을 생략한 상태
+    var name= "kyuheon"
+    var count = 3
 }
