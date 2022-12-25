@@ -1,3 +1,5 @@
+package DataTypeAndOperator
+
 fun main(args: Array<String>) {
     val x = 4   // 0100(2) 4(10)
     val y = 0b0000_1010 //10(10)

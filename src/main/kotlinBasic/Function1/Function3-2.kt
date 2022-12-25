@@ -1,4 +1,6 @@
-fun highFunc(a:Int, b:Int, sum:(Int,Int) -> Int): Int{
+package Function1
+
+fun highFunc(a:Int, b:Int, sum:(Int, Int) -> Int): Int{
     return sum(a,b)
 }
 

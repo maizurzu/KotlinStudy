@@ -1,3 +1,5 @@
+package DataTypeAndOperator
+
 fun main(args: Array<String>) {
     val x = 10  // 0000_1010(2)
     println("x shl 2 -> ${x.shl(2)}")

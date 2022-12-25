@@ -1,4 +1,4 @@
-
+package Function2
 fun main() {
     //일반 변수에 람다식 할당
     // val multi = {a: Int, b:Int -> a*b}
@@ -53,6 +53,10 @@ fun main() {
     //--값에의한 호출--
     val callValue = calByValue(lambda())
     println(callValue)
+
+    //이름에 의한 호출
+    val callName = callByName(otherLambda)
+    println(callName)
 }
 
 //값에 의한 호출
@@ -63,5 +67,16 @@ fun calByValue(b:Boolean):Boolean{
 
 val lambda: ()->Boolean = {
     println("lamda function")
+    true
+}
+
+//이름에 의한 호출
+fun callByName(b: () -> Boolean):Boolean{
+    println("call by Name function")
+    return b()
+}
+
+val otherLambda: () -> Boolean = {
+    println("OtherLambda function")
     true
 }

@@ -1,10 +1,11 @@
-
-//fun sum(a:Int, b:Int):Int{
+package Function1
+//fun Function3.sum(a:Int, b:Int):Int{
 //    return a+b
 //}
 
-//fun sum(a:Int, b:Int):Int = a+b
+//fun Function3.sum(a:Int, b:Int):Int = a+b
 
+//Unit 반환 : Void라고 생각하면 됨
 fun sum(a:Int, b:Int) = a+b
 
 fun max(a:Int, b:Int): Int{

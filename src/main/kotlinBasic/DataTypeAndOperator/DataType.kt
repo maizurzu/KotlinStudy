@@ -1,3 +1,5 @@
+package DataTypeAndOperator
+
 fun main(args: Array<String>) {
 //    val username: String = "kyuheon"
 //    username = "dol"

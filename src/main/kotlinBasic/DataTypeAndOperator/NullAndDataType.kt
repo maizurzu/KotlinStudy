@@ -1,3 +1,5 @@
+package DataTypeAndOperator
+
 fun main(args: Array<String>) {
     //null 사용법
 //    var str1:String?
