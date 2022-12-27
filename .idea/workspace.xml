@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d669d156-4344-479a-8917-d215cec526cf" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlinBasic/Test/TestClass1.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/helloKotlin.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlinBasic1/BitOperater.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlinBasic/DataTypeAndOperator/BitOperater.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlinBasic1/BitOperater2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlinBasic/DataTypeAndOperator/BitOperater2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlinBasic1/Function3-1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlinBasic/Function1/Function3-1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlinBasic1/Function3-2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlinBasic/Function1/Function3-2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlinBasic1/Function4-1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlinBasic/Function2/Function4-1-1.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlinBasic1/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlinBasic/DataTypeAndOperator/DataType.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlinBasic1/Main2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlinBasic/DataTypeAndOperator/Operator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlinBasic1/NullAndDataType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlinBasic/DataTypeAndOperator/NullAndDataType.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/LEE KYUHEON/Desktop/Web_Develpment/KotWorkspace/helloKotlin/src/main/kotlinBasic1",
+    "last_opened_file_path": "C:/Users/LEE KYUHEON/Desktop/Web_Develpment/KotWorkspace/helloKotlin/src/main/kotlinBasic/Function2",
     "project.structure.last.edited": "모듈",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -55,11 +45,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LEE KYUHEON\Desktop\Web_Develpment\KotWorkspace\helloKotlin\src\main\kotlinBasic\Function2" />
       <recent name="C:\Users\LEE KYUHEON\Desktop\Web_Develpment\KotWorkspace\helloKotlin\src\main\kotlinBasic1" />
       <recent name="C:\Users\LEE KYUHEON\Desktop\Web_Develpment\KotWorkspace\helloKotlin\src\main" />
       <recent name="C:\Users\LEE KYUHEON\Desktop\Web_Develpment\KotWorkspace\helloKotlin\src\main\kotlinBasic3" />
       <recent name="C:\Users\LEE KYUHEON\Desktop\Web_Develpment\KotWorkspace\helloKotlin\src\main\kotlinBasic2" />
-      <recent name="C:\Users\LEE KYUHEON\Desktop\Web_Develpment\KotWorkspace\helloKotlin\src\main\kotlin" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\LEE KYUHEON\Desktop\Web_Develpment\KotWorkspace\helloKotlin\src\main\kotlinBasic1\DataTypeAndOperator2" />
@@ -90,7 +80,8 @@
       <option name="presentableId" value="Default" />
       <updated>1671788125558</updated>
       <workItem from="1671788126785" duration="4472000" />
-      <workItem from="1671971700536" duration="9289000" />
+      <workItem from="1671971700536" duration="9347000" />
+      <workItem from="1672118849016" duration="1014000" />
     </task>
     <task id="LOCAL-00001" summary="Hello Kotlin v2 -day1">
       <created>1671805420766</created>
@@ -106,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671977550730</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello Kotlin v2 -day2">
+      <created>1671990558883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671990558883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +113,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello Kotlin v2 -day1" />
     <MESSAGE value="Hello Kotlin v1 -day2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello Kotlin v1 -day2" />
+    <MESSAGE value="Hello Kotlin v2 -day2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello Kotlin v2 -day2" />
   </component>
 </project>
